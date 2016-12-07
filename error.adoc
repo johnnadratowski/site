@@ -1,0 +1,6 @@
+# 404
+:last-update-label!:
+:stylesdir: style/
+:imagesdir: img/
+
+The requested resource could not be found. link:./index.html[Go back to the index page]

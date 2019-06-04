@@ -1,18 +1,19 @@
 # John Nadratowski
 :last-update-label!:
-:stylesdir: style/
+:stylesdir: styles/
 :imagesdir: img/
+:nofooter:
 Destroying the world, one bug at a time
 
 * link:/resume[Resume]
 * link:https://johnnadratowski.github.io[Blog]
 
-image::construction.gif[We're under construction!,align=center]
-++++
-<div align=center>
-    <a href="http://www.hitwebcounter.com" target="_blank">
-        <img src="http://hitwebcounter.com/counter/counter.php?page=6551313&style=0016&nbdigits=5&type=page&initCount=0" title="Counter for tumblr" Alt="Counter for tumblr" border="0" ></a>
-    <br/> 
-    <br/> 
-</div>
-++++
+// image::construction.gif[We're under construction!,align=center]
+// ++++
+// <div align=center>
+//     <a href="http://www.hitwebcounter.com" target="_blank">
+//         <img src="http://hitwebcounter.com/counter/counter.php?page=6551313&style=0016&nbdigits=5&type=page&initCount=0" title="Counter for tumblr" Alt="Counter for tumblr" border="0" ></a>
+//     <br/> 
+//     <br/> 
+// </div>
+// ++++
